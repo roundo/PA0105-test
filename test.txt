@@ -1,0 +1,7 @@
+	Création de nouveau fichier !
+
+1	$ git init (initialisation)
+2	$ touch nomFichier (création de fichier)
+3	$ git add Readme.txt (ajout de fichier)
+4	$ git commit -m "Ajout Lisez-moi.txt" (envoie vers git local)
+5	$ git push (envoie au serveur)
